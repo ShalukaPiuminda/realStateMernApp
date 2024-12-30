@@ -1,3 +1,4 @@
-export const test = (req, res) => {
-  res.send("This is the test route");
-};
+export const test=(req,res)=>{
+  res.send('This is the test route');
+}
+
