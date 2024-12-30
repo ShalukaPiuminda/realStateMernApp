@@ -1,0 +1,2 @@
+MONGO_URI='mongodb+srv://projectlear4:pass123ssap@cluster0.6zl4o.mongodb.net/expenseTracker?retryWrites=true&w=majority&appName=Cluster0'
+PORT=5000
