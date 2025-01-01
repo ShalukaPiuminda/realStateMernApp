@@ -33,7 +33,7 @@ export const signin = async (req, res, next) => {
         httpOnly: true,
       })
       .status(200)
-      .json({ rest });
+      .json({message:'Login successful'});
   } catch (error) {
     next(error);
   }
